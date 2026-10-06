@@ -1,14 +1,13 @@
 ---
 author:
-  - name: Sidney Verba
-    url: https://en.wikipedia.org/wiki/Sidney_Verba
-    email: "example@harvard.edu"
+  - name: Maia Solomon
+    url: 
+    email: "maiasolomon97@gmail.com"
     degrees:
-      - PhD
     affiliations:
-      - name: Harvard University
-        department: Department of Government
-    title: "Carl H. Pforzheimer University Professor (Emeritus)"
+      - name: University of Houston
+        department: Office of Emergency Management
+    title: "Emergency Management Specialist"
 date: today
 format:
   cv-typst:
@@ -26,30 +25,8 @@ nocite: '@*'
 
 {{< cv education >}}
 
-## Books
-
-:::{#refs-books}
-:::
-
-## Peer-Reviewed Articles
-
-:::{#refs-articles}
-:::
-
-## Book Chapters
-
-:::{#refs-bookchapters}
-:::
-
 ## Working Papers
 
 :::{#refs-workingpapers}
 :::
 
-## Honors
-
-{{< cv honors >}}
-
-## Service
-
-{{< cv positions >}}
