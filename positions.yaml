@@ -8,3 +8,9 @@ positions:
     - position: Emergency Management Specialist
       year:
         start: 2023
+        
+service:
+  University of Houston:
+    - position: Community Emergency Response Team (CERT) Program Trainer
+      year:
+        start: 2023

@@ -33,3 +33,4 @@ nocite: '@*'
 ## Positions 
 
 {{< cv positions >}}
+{{< cv service >}} 
