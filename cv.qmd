@@ -1,7 +1,7 @@
 ---
 author:
   - name: Maia Solomon
-    url: 
+    url: https://maiasolomon97.github.io/
     email: "maiasolomon97@gmail.com"
     degrees:
     affiliations:
@@ -30,3 +30,6 @@ nocite: '@*'
 :::{#refs-workingpapers}
 :::
 
+## Positions 
+
+{{< cv positions >}}
